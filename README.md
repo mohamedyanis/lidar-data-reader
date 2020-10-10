@@ -3,7 +3,9 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 #100daysofcode This simple programme written with processing3.
-Click <a href="https://processing.org"> here </a> to read more about processing3.
+Click <a href="https://processing.org"> here </a> to read more about processing3.<br><br>
+
+LiDAR is an active remote sensing system which uses pulsed laser beams to accurately map out an environment. The basic mechanism is known as “time of flight” measurement in which a laser beam is emitted towards an object, reflected off of the object and then collected in a sensor located within the LiDAR module. When the beam returns, it carries with it information about the object that it contacted including distance and optical characteristics like reflectivity.
 
 ## #100daysofcode
 Almost a hundred days ago from now (01/10/2020), I decided to do the #100daysofcode challenge. This challenge is simply for someone to code every day and post on social media a picture shows that he wrote a code (every day). And than they share with us the final project.<br>
@@ -18,6 +20,7 @@ But me..! I did it differently, every day I built an app, a game, a web page or 
 * [x] 3D view
 * [x] Zoom In & Out
 * [x] Ability to rotate and move it
+* [x] Press the key **"l"** to load another file
 
 ## Thank _You_!
 Please :star: this repo to help us improve the quality.
